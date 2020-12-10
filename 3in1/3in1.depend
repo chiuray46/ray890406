@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603371713 source:c:\users\ray89\documents\code\3in1\main.cpp
+	<iostream>
+	<cstring>
+

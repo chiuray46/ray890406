@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607003622 source:c:\users\ray89\documents\code\rand\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+

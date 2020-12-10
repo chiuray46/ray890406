@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603374816 source:c:\users\ray89\documents\code\randomarray\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

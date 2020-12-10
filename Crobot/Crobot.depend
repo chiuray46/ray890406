@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606998420 source:c:\users\ray89\documents\code\crobot\main.cpp
+	"Crobot.h"
+
+1606998946 c:\users\ray89\documents\code\crobot\crobot.h
+	<iostream>
+	<cstdlib>
+

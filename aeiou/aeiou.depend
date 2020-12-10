@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607001689 source:c:\users\ray89\documents\code\aeiou\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
